@@ -11,3 +11,5 @@ https://free-url-shortener.rb.gy/ - URL shortener, no account needed.
 https://creepylink.com/ - The opposite of a URL shortener, makes links longer and look SUPER suspicious.
 
 https://canarytokens.org/nest/ - collection of various canary embeds for callbacks.
+
+https://esolangs.org/ - Collection of obscure programming languages.
